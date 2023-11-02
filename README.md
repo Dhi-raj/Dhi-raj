@@ -1,10 +1,39 @@
-#About me
+<h1 align="left">Hey 👋 What's up?</h1>
 
-MY name is Dhiraj kumar.I am a recent graduate with a B.Tech degree in Computer Science and Technology from IES College of Technology, Bhopal.
-I achieved a CGPA of 7.8 during my time in the program, demonstrating my commitment to academic excellence.
-During my studies, I gained technical skills and knowledge in various programming languages, such as C, C++, Python, SQL, HTML, and OOPS. 
-I also learned about data structures, algorithms, computer architecture, and software development methodologies.
-As a result of my education, I have developed the skills necessary to design and develop efficient and reliable software and systems. 
-I am equipped to work in various industries, including technology, healthcare, finance, and government.
-My education has also provided me with problem-solving and critical thinking skills, which are essential for developing innovative solutions to complex challenges. 
-Overall, my B.Tech degree has prepared me to pursue a rewarding career in the field of technology and has laid a strong foundation for my future professional growth.
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
